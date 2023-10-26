@@ -1,1 +1,82 @@
-List the oprator in java
+operators in java-->>>>>>>
+-------------------------
+1. relational operator
+2. logical operator
+3. arithmatic operator
+4. bitwise operator
+5. assignment operator
+6.  unary operator
+increment operator---->>>>	 
+-----------------------------
+increment operator use to increase the value of a variable by 1.
+ex-->     int x = 5;
+    			int y = ++x;   
+											x=6, y = 6;
+
+decrement operator-->>
+++++++++++++++++++++++++++
+the decrement operator use to decrease the value of a variable by 1.
+ex-->>     int x = 5
+						int y = --x
+												x=9, y= 9;
+
+conditional operator-->>
+++++++++++++++++++++++++++++++
+conditional operator used when acondition compromise more than one boolean expression .for instant if we want to print a number if it is greater than 2 and less than 5
+than we will used conditional operator to combine the 2 operator.
+
+types of operators based on the number of operand-->>
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+there are three type of operator based on the number of operands-
+1. unary operator
+2. binary operator
+3. ternary  operator.
+
+conditional statment -->>
+++++++++++++++++++++++++++++
+conditional statment define conditions that are treu are false and than execute based on whethar or not thecondition is true.
+
+syntex of if else statment-->>
++++++++++++++++++++++++++++++++++++
+int number = 10;
+if(number > 0 ) {
+System.out.prinln(the number is positive);
+}
+}else{
+System.out.println(the number is not positive);
+}
+
+3 type of iterative statment in java-->>
+++++++++++++++++++++++++++++++++++++++++++++++++
+1. for statment
+2. while statment
+3. do-while statment
+
+Array__>>
+++++++++++++++++
+it refers to index collection of homogeneou data element . single variable holding multiple value which improve readability of the program.
+
+creat an array-->>
+++++++++++++++++++++
+1. first with the new keyword,where you have to initialize the value one by one
+2. putting the value in curly braces
+
+
+diffrence between stringbuffer and stringbuilder-->>
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+string buffer-->>
+							1.	it is thread safe,multiple thread cant access at the same time.
+							2.  it is mutable,we can modifing string without creating an object
+string builder-->>
+									1. it is not thread safe,faster than string buffer.
+									2. it is also mutable 
+
+
+
+
+
+
+
+
+
+
