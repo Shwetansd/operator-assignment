@@ -1,0 +1,53 @@
+diffrence between JVM,JRE,andJDK.
++++++++++++++++++++++++++++++++++++++++
+1. the JDK is an abbreviation for java development kit
+2. the JRE is abbreviation for java funtime environment.
+3. the JVM is an abbreviation that execute the java bytecode.
+
+java programing language and platform indipendent
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+java is called platform indipendent becaause program writen in java 
+ can be run on multiple platformwithote re-writting them .
+
+Java programing executed by the JVM==>>
+==========================================
+the java compiler takes the source code and produce bytecode, which is when executed by the JVM
+the bytecode is loaded into thee JVM interprets the bytecode and executed the proggram.
+
+use of var args in java===>
+++++++++++++++++++++++++++++++
+simplifies the creation of methods that need to take a variable number of arguments.
+
+operators in java==>
++++++++++++++++++++++
+there are three types of variable.
+1. local variable.
+2. instant variable.
+3. static variable.
+
+types of memory area are allocated by JVMM==>
++++++++++++++++++++++++++++++++++++++++++++++
+there are three types,
+1. method area.
+2. stack area.
+3. heap area.
+
+JIT compiler==>
+++++++++++++++
+helps improve the performance of java programing by compiling bytecodes into native 
+machine code at runtime.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
